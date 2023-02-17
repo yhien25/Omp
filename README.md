@@ -1,2 +1,0 @@
-# Omp
-Php/MySql
